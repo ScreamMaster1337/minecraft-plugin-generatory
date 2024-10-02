@@ -12,7 +12,7 @@ SkyPVP Generator to plugin do Minecrafta, który umożliwia tworzenie generator�
 
 - `/generator create <czas>`  
   **Opis:** Tworzy nowy generator, który będzie generował zasoby co określoną ilość sekund.  
-  **Przykład:** `/generator create 60` – Tworzy generator, który co 60 sekund generuje zasoby.
+  **Przykład:** `/generator create 60s` – Tworzy generator, który co 60 sekund generuje zasoby.
 
 - `/generator delete <id>`  
   **Opis:** Usuwa generator o określonym ID.  
