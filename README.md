@@ -24,13 +24,6 @@ SkyPVP Generator to plugin do Minecrafta, który umożliwia tworzenie generator�
 - `/generator list`  
   **Opis:** Wyświetla listę wszystkich aktualnie istniejących generatorów.
 
-## Instalacja
-
-1. Pobierz najnowszą wersję pluginu.
-2. Skopiuj plik .jar do folderu `plugins` na twoim serwerze Minecraft.
-3. Uruchom lub zrestartuj serwer, aby plugin zaczął działać.
-4. Skonfiguruj plugin według własnych potrzeb.
-
 ## Konfiguracja
 
 Po instalacji, plugin automatycznie utworzy plik konfiguracyjny, w którym możesz dostosować ustawienia generatorów.
