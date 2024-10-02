@@ -1,0 +1,6 @@
+name: m4code-generator
+version: '1.0-SNAPSHOT'
+main: pl.m4code.Main
+api-version: '1.16'
+softdepend: [PlaceholderAPI]
+author: ScreamMaster1337
